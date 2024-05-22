@@ -1,0 +1,1 @@
+This file wll holds instructions for configuring our application.Follow this steps to ensure a smooth set up process
